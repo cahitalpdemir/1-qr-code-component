@@ -1,2 +1,3 @@
-# 1-qr-code-component
+# QR code component using CSS and Bootstrap
+
  
